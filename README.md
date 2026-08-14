@@ -32,7 +32,7 @@ Mostly things that improve coding agents, reduce wasted tokens, provide better c
 ## Local AI
 
 - [Ollama](https://github.com/ollama/ollama) — Run and manage open models locally.
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient LLM inference in C and C++.
+- <img src="./assets/star-full.svg" width="12" height="12" alt="Favorite"> [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient LLM inference in C and C++.
 
 ## Contributing
 
