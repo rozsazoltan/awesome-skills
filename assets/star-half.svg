@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" role="img" aria-label="Partially marked">
+  <defs>
+    <clipPath id="left-half">
+      <rect width="8" height="16"/>
+    </clipPath>
+  </defs>
+  <path fill="#58a6ff" clip-path="url(#left-half)" d="M8 1.5l1.94 3.93 4.34.63-3.14 3.06.74 4.32L8 11.4l-3.88 2.04.74-4.32L1.72 6.06l4.34-.63L8 1.5z"/>
+  <path fill="none" stroke="#58a6ff" stroke-width="1.25" stroke-linejoin="round" d="M8 1.5l1.94 3.93 4.34.63-3.14 3.06.74 4.32L8 11.4l-3.88 2.04.74-4.32L1.72 6.06l4.34-.63L8 1.5z"/>
+</svg>
