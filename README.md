@@ -38,6 +38,7 @@ Each project can be useful on its own. Pick the orchestration model that fits yo
 * <img src="./assets/star-full.svg" width="12" height="12" alt="Favorite"> [OmO Slim](https://github.com/alvinunreal/oh-my-opencode-slim) — Leaner OpenCode multi-agent setup focused on delegation without the full OmO stack.
 * [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) — Plan-first development workflow with controlled execution, testing, review, and validation.
 * [Superpowers](https://github.com/obra/superpowers) — Structured software development methodology built from composable agent skills and workflows.
+* [YYLO](https://github.com/yylo-dev/yylo) — Orchestration CLI for AI coding agents with Kanban board, task worktrees, merge orchestration, and controller metadata stored as plain Markdown.
 
 ## Skills & Subagents
 
